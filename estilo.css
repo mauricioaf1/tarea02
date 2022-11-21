@@ -1,0 +1,30 @@
+div
+{
+    background-color: black;
+    color: lightgreen;
+    font-size: large;
+}
+
+#btn1
+{
+    background-color: blue;
+    color: white;
+}
+
+#btn2
+{
+    background-color: red;
+    color: white;
+}
+
+#btn3
+{
+    background-color: yellow;
+    color: white;
+}
+
+table tr
+{
+    background-color: cadetblue;
+    columns: red;
+}
